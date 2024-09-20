@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Jibrankhalil-nu/Jibrankhalil-nu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ <br />
+<p align="start">
+  <h1 align="start"> Jibran Khalil </h1>
+<p h2 align="start">
+
+- 👋 Hi, I’m jibrankhalil
+- 👀 I’m interested in Programming and technology..
+- 🌱 I’m currently learning Full Stack Developement..
+- 💞️ I’m looking to collaborate on Projects...
